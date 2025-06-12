@@ -5,7 +5,6 @@ build
 
 # lib
 pytest<=8.0.1
-Appium-Python-Client==4.0.0
 opencv-python~=4.10.0.84
 geckodriver-autoinstaller==0.1.0
 pytest-xdist~=2.5.0
@@ -14,3 +13,4 @@ pure-python-adb==0.3.0.dev0
 webdriver-manager~=4.0.1
 numpy~=1.26
 imutils~=0.5.4
+Appium-Python-Client==4.0.0
